@@ -1,0 +1,49 @@
+body {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  background-color: rgb(61, 61, 61);
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-nav {
+  margin: 5px;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(255, 93, 93);
+  font-weight: bold;
+}
+
+.btn-nav:hover {
+  opacity: 0.6;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(228, 228, 228);
+}
+
+h3 {
+  padding: 30px;
+}
+
+.card-inf {
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  border-radius: 30px;
+  background-color: rgb(255, 253, 253);
+  margin: 30px;
+}
+
+#imgPika {
+  width: 200px;
+  height: 200px;
+}
+
+footer {
+  color: rgb(255, 255, 255);
+}
